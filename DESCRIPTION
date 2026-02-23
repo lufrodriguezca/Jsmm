@@ -1,0 +1,23 @@
+Package: Jsmm
+Title: Joint Species Movement Modelling with the R-package Jsmm
+Version: 0.1.0
+Description: Software for simulating and predicting movement data based on diffusion-advection-reaction models.
+License: CC BY-NC-ND 4.0 + file LICENSE
+Encoding: UTF-8
+Author: Luisa F. Rodriguez [aut, cre](ORCID: <https://orcid.org/0000-0002-8022-6522>), Otso Ovaskainen [aut] (ORCID: <https://orcid.org/0000-0001-9750-4421>)
+Maintainer: Luisa F. Rodriguez <rpackagejsmm@gmail.com>
+Authors@R: c(person(given="Luisa F.", family = "Rodriguez", email="rpackagejsmm@gmail.com", role = c("aut","cre")), person(given="Otso", family="Ovaskainen", email = "rpackagejsmm@gmail.com", role = c("aut")))
+URL: https://github.com/lufrodriguezca/Jsmm
+Imports:
+    MASS,
+    MCMCpack,
+    Matrix,
+    RTriangle,
+    Rcpp,
+    colorspace,
+    ggplot2,
+    coda,
+    sf
+LinkingTo:
+    Rcpp
+RoxygenNote: 7.3.3
