@@ -1,0 +1,14 @@
+citHeader("To cite this package:")
+
+citEntry(
+  entry = "Manual",
+  title = "Joint Species Movement Modelling with the R-package Jsmm",
+  author = c(
+    person("Luisa F.", "Rodriguez"),
+    person("Otso", "Ovaskainen")
+  ),
+  year = "2026",
+  note = "R package version 0.1.0",
+  textVersion =
+    "Rodriguez LF and Ovaskainen O (2026). Joint Species Movement Modelling with the R-package Jsmm version 0.1.0."
+)
