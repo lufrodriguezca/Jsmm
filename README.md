@@ -3,7 +3,8 @@ Software for simulating and predicting movement data based on diffusion-advectio
 
 Rodriguez, L. F., & Ovaskainen, O. (2026). R-package Jsmm: Joint species movement modelling of mark-recapture data. *bioRxiv*. https://doi.org/10.64898/2026.02.24.707702
 
-Examples' scripts and documentation can be found within the folder analysis.
+
+NOTE: Examples' scripts, vignettes, and documentation can be found within the folder analysis.
 
 To install the R package, run the following commands on R: 
 
