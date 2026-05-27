@@ -1,7 +1,7 @@
 # Jsmm
 Software for simulating and predicting movement data based on diffusion-advection-reaction models.
 
-Rodriguez, L. F., & Ovaskainen, O. (2026). R-package Jsmm: Joint species movement modelling of mark-recapture data. *bioRxiv*. https://doi.org/10.64898/2026.02.24.707702
+Rodriguez, L. F., & Ovaskainen, O. (2026). R-package Jsmm: Joint species movement modelling of mark-recapture data. Available at *bioRxiv*. https://doi.org/10.64898/2026.02.24.707702
 
 
 NOTE: Examples' scripts, vignettes, and documentation can be found within the folder analysis.
